@@ -8,6 +8,20 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ## Unreleased - xxxx-xx-xx
 
+## v3.11.0 - 2025-03-30
+
+### New Features
+
+- add directive support to generator (#1139)
+
+### Bug Fixes
+
+- allow generic inner types on fields (#1131)
+
+### Changes
+
+- update Cargo.lock dependencies
+
 ## v3.10.0 - 2025-02-10
 
 ### New Features
